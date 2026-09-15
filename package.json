@@ -1,0 +1,22 @@
+{
+  "name": "realign-career-explorer-prototype",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Frontend-only click-through prototype of the HPM v0 career exploration flow — Welcome, Age check, Interest discovery, Priority ranking, Recommendations, Career page, Compare, Explore More. In-memory state, no backend. See README.md for how this maps to the project's product docs.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.383.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.12.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.2.0"
+  }
+}
